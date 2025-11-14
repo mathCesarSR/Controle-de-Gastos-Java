@@ -1,6 +1,6 @@
 # 🚀 Controle de Gastos
 
-Bem-vindo ao guia de desenvolvimento da aplicação **Controle de Gastos**, criada por **Caio Claudino**.  
+Bem-vindo ao guia de desenvolvimento da aplicação **Controle de Gastos**, criada por **Matheus Cesar**.  
 Este projeto tem como objetivo aplicar conceitos de **Desenvolvimento Full Stack**, utilizando **Spring Boot** no backend e **HTMX + Thymeleaf** no frontend.
 
 A aplicação permite cadastrar, listar, editar e excluir lançamentos de receitas e despesas de forma simples e moderna.  
